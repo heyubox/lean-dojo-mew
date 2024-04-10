@@ -4,7 +4,7 @@
  [{"git":
    {"url": "https://github.com/EdAyers/ProofWidgets4",
     "subDir?": null,
-    "rev": "a0c2cd0ac3245a0dade4f925bcfa97e06dd84229",
+    "rev": "7d648981fe6544b766c0782e1295638e61c97b49",
     "opts": {},
     "name": "proofwidgets",
     "inputRev?": "v0.0.13",
